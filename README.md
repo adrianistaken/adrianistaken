@@ -88,7 +88,7 @@ I’m always up for learning new things, whether it’s a new programming langua
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none; padding: 0; vertical-align: top;">
-      <img src="https://i.ibb.co/ck2Xfsq/123-1-5.jpg" alt="Adrian's Photo" width="400" style="border-radius: 10px;"/>
+      <img src="https://i.postimg.cc/jqJ2QhZP/123-1-5.jpg" alt="Adrian's Photo" width="400" style="border-radius: 10px;"/>
     </td>
     <td style="border: none; padding-left: 20px; vertical-align: top;">
       <ul>
