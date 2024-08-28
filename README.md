@@ -27,7 +27,7 @@ I’m always up for learning new things, whether it’s a new programming langua
       <img src="https://i.ibb.co/gzfSzMX/resoundfm-logo.jpg" alt="Resound Logo" width="50" height="50"/>
     </td>
     <td>
-      <strong>Resound</strong><br/>
+      <a href="https://www.resound.fm/" target="_blank"><strong>Resound</strong></a><br/>
       <span>Full Stack Software Engineer | Artificial Intelligence podcast editing tool</span>
     </td>
   </tr>
@@ -39,7 +39,7 @@ I’m always up for learning new things, whether it’s a new programming langua
       <img src="https://i.ibb.co/SyK5x1g/resonate-logo.png" alt="Resonate Recordings Logo" width="50" height="50"/>
     </td>
     <td>
-      <strong>Resound</strong><br/>
+      <a href="https://resonaterecordings.com/" target="_blank"><strong>Resonate Recordings</strong></a><br/>
       <span>Full Stack Software Engineer | Podcast editing services and production platform</span>
     </td>
   </tr>
@@ -63,7 +63,7 @@ I’m always up for learning new things, whether it’s a new programming langua
       <img src="https://raw.githubusercontent.com/zzADRiANzz/PomodoroTimer/main/images/wen-small-meow-cat-small.png" alt="Pomodoro Timer Logo" width="50" height="50"/>
     </td>
     <td>
-      <strong>Pomodoro Timer</strong><br/>
+      <a href="https://zzadrianzz.github.io/PomodoroTimer/" target="_blank"><strong>Pomodoro Timer</strong></a><br/>
       <span>Personal Project | Simple and cute Pomodoro timer</span>
     </td>
   </tr>
@@ -75,7 +75,7 @@ I’m always up for learning new things, whether it’s a new programming langua
       <img src="https://i.ibb.co/GVsSHPS/Screenshot-2024-08-28-at-10-34-59-AM.png" alt="Twitch Chat Hangman Logo" width="50" height="50"/>
     </td>
     <td>
-      <strong>Twitch Chat Hangman</strong><br/>
+      <a href="https://zzadrianzz.github.io/TwitchChatHangman/" target="_blank"><strong>Twitch Chat Hangman</strong></a><br/>
       <span>Personal Project | Classic hangman game with Twitch chat</span>
     </td>
   </tr>
