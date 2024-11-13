@@ -14,7 +14,7 @@ I’m always up for learning new things, whether it’s a new programming langua
 
 ### What I Do
 
-- **Frontend Development:** I specialize in creating dynamic and responsive web applications using modern frontend frameworks. I love collaboring with engineers and designer to build seamless user experiences.
+- **Frontend Development:** I specialize in creating dynamic and responsive web applications using modern frontend frameworks. I love collaboring with engineers and designers to build seamless user experiences.
   
 - **Full Stack Development:** While my strength lies in frontend development, I also have experience working with backend technologies like Python and Django, allowing me to contribute to the entire stack.
 
