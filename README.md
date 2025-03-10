@@ -3,7 +3,7 @@
 ## About Me
 
 <div align="center">
-  <img src="https://i.ibb.co/1mxGvm9/123-1-7.jpg" alt="Adrian's Photo" width="750"/>
+  <img src="https://i.ibb.co/ynscqm43/bigrocks.jpg" alt="Adrian's Photo" width="750"/>
 </div>
 
 Hey! I'm Adrian, a tech enthusiast who loves to tinker and build cool stuff. I spend most of my days creating things, whether that's coding, YouTube videos, or game development. I’m all about making things that not only look good but feel great to use/consume.
