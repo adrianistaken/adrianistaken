@@ -51,7 +51,7 @@ I’m always up for learning new things, whether it’s a new programming langua
       <img src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="Reddit Logo" width="50" height="50"/>
     </td>
     <td>
-      <a href="https://reddit-reader-wow.netlify.app/" target="_blank"><strong>Reddit Reader • WIP</strong></a><br/>
+      <a href="https://reddit-reader-wow.netlify.app/" target="_blank"><strong>Reddit Reader</strong></a> • WIP<br/>
       <span>Personal Project | View posts that you care about from your favorite subreddit</span>
     </td>
   </tr>
