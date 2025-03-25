@@ -72,6 +72,18 @@ I’m always up for learning new things, whether it’s a new programming langua
 <table>
   <tr>
     <td>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-73F1Ik8k9ihg8bsLQ6moWqnXUuarANyuEA&s" alt="Fetch Logo" width="50" height="50"/>
+    </td>
+    <td>
+      <strong>Fetch Dog Shelter</strong><br/>
+      <span>Project | A dog-lover's database for shelter dogs</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
       <img src="https://raw.githubusercontent.com/zzADRiANzz/PomodoroTimer/main/images/wen-small-meow-cat-small.png" alt="Pomodoro Timer Logo" width="50" height="50"/>
     </td>
     <td>
