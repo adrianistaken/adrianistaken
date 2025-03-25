@@ -75,7 +75,7 @@ I’m always up for learning new things, whether it’s a new programming langua
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-73F1Ik8k9ihg8bsLQ6moWqnXUuarANyuEA&s" alt="Fetch Logo" width="50" height="50"/>
     </td>
     <td>
-      <strong>Fetch Dog Shelter</strong><br/>
+      <a href="https://fetch-dog-shelter-database.netlify.app/" target="_blank"><strong>Fetch Dog Shelter</strong></a><br/>
       <span>Project | A dog-lover's database for shelter dogs</span>
     </td>
   </tr>
