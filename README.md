@@ -60,10 +60,10 @@ I’m always up for learning new things, whether it’s a new programming langua
 <table>
   <tr>
     <td>
-      <img src="https://i.ibb.co/C95g9Jb/icons8-music-120.png" alt="Higher Lower Music Logo" width="50" height="50"/>
+      <a href="https://higherlowermusic.netlify.app/"><img src="https://i.ibb.co/C95g9Jb/icons8-music-120.png" alt="Higher Lower Music Logo" width="50" height="50"/></a>
     </td>
     <td>
-      <strong>Higher Lower Music</strong><br/>
+      <a href="https://higherlowermusic.netlify.app/"><strong>Higher Lower Music</strong><br/></a>
       <span>Personal Project | Higher lower game based on music artists</span>
     </td>
   </tr>
