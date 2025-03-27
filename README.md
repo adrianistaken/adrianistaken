@@ -24,7 +24,9 @@ I’m always up for learning new things, whether it’s a new programming langua
 <table>
   <tr>
     <td>
-      <img src="https://i.ibb.co/gzfSzMX/resoundfm-logo.jpg" alt="Resound Logo" width="50" height="50"/>
+      <a href="https://www.resound.fm/" target="_blank">
+        <img src="https://i.ibb.co/gzfSzMX/resoundfm-logo.jpg" alt="Resound Logo" width="50" height="50"/>
+      </a>
     </td>
     <td>
       <a href="https://www.resound.fm/" target="_blank"><strong>Resound</strong></a><br/>
@@ -36,7 +38,9 @@ I’m always up for learning new things, whether it’s a new programming langua
 <table>
   <tr>
     <td>
-      <img src="https://i.ibb.co/SyK5x1g/resonate-logo.png" alt="Resonate Recordings Logo" width="50" height="50"/>
+      <a href="https://resonaterecordings.com/" target="_blank">
+        <img src="https://i.ibb.co/SyK5x1g/resonate-logo.png" alt="Resonate Recordings Logo" width="50" height="50"/>
+      </a>
     </td>
     <td>
       <a href="https://resonaterecordings.com/" target="_blank"><strong>Resonate Recordings</strong></a><br/>
@@ -48,7 +52,9 @@ I’m always up for learning new things, whether it’s a new programming langua
 <table>
   <tr>
     <td>
-      <img src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="Reddit Logo" width="50" height="50"/>
+      <a href="https://reddit-reader-wow.netlify.app/" target="_blank">
+        <img src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="Reddit Logo" width="50" height="50"/>
+      </a>
     </td>
     <td>
       <a href="https://reddit-reader-wow.netlify.app/" target="_blank"><strong>Reddit Reader</strong></a> • WIP<br/>
@@ -60,10 +66,12 @@ I’m always up for learning new things, whether it’s a new programming langua
 <table>
   <tr>
     <td>
-      <a href="https://higherlowermusic.netlify.app/"><img src="https://i.ibb.co/C95g9Jb/icons8-music-120.png" alt="Higher Lower Music Logo" width="50" height="50"/></a>
+      <a href="https://higherlowermusic.netlify.app/" target="_blank">
+        <img src="https://i.ibb.co/C95g9Jb/icons8-music-120.png" alt="Higher Lower Music Logo" width="50" height="50"/>
+      </a>
     </td>
     <td>
-      <a href="https://higherlowermusic.netlify.app/"><strong>Higher Lower Music</strong><br/></a>
+      <a href="https://higherlowermusic.netlify.app/" target="_blank"><strong>Higher Lower Music</strong><br/></a>
       <span>Personal Project | Higher lower game based on music artists</span>
     </td>
   </tr>
@@ -72,7 +80,9 @@ I’m always up for learning new things, whether it’s a new programming langua
 <table>
   <tr>
     <td>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-73F1Ik8k9ihg8bsLQ6moWqnXUuarANyuEA&s" alt="Fetch Logo" width="50" height="50"/>
+      <a href="https://fetch-dog-shelter-database.netlify.app/" target="_blank">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-73F1Ik8k9ihg8bsLQ6moWqnXUuarANyuEA&s" alt="Fetch Logo" width="50" height="50"/>
+      </a>
     </td>
     <td>
       <a href="https://fetch-dog-shelter-database.netlify.app/" target="_blank"><strong>Fetch Dog Shelter</strong></a><br/>
@@ -84,7 +94,9 @@ I’m always up for learning new things, whether it’s a new programming langua
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/zzADRiANzz/PomodoroTimer/main/images/wen-small-meow-cat-small.png" alt="Pomodoro Timer Logo" width="50" height="50"/>
+      <a href="https://zzadrianzz.github.io/PomodoroTimer/" target="_blank">
+        <img src="https://raw.githubusercontent.com/zzADRiANzz/PomodoroTimer/main/images/wen-small-meow-cat-small.png" alt="Pomodoro Timer Logo" width="50" height="50"/>
+      </a>
     </td>
     <td>
       <a href="https://zzadrianzz.github.io/PomodoroTimer/" target="_blank"><strong>Pomodoro Timer</strong></a><br/>
@@ -96,7 +108,9 @@ I’m always up for learning new things, whether it’s a new programming langua
 <table>
   <tr>
     <td>
-      <img src="https://i.ibb.co/GVsSHPS/Screenshot-2024-08-28-at-10-34-59-AM.png" alt="Twitch Chat Hangman Logo" width="50" height="50"/>
+      <a href="https://zzadrianzz.github.io/TwitchChatHangman/" target="_blank">
+        <img src="https://i.ibb.co/GVsSHPS/Screenshot-2024-08-28-at-10-34-59-AM.png" alt="Twitch Chat Hangman Logo" width="50" height="50"/>
+      </a>
     </td>
     <td>
       <a href="https://zzadrianzz.github.io/TwitchChatHangman/" target="_blank"><strong>Twitch Chat Hangman</strong></a><br/>
