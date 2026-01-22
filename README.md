@@ -52,20 +52,6 @@ I’m always up for learning new things, whether it’s a new programming langua
 <table>
   <tr>
     <td>
-      <a href="https://reddit-reader-wow.netlify.app/" target="_blank">
-        <img src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="Reddit Logo" width="50" height="50"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://reddit-reader-wow.netlify.app/" target="_blank"><strong>Reddit Reader</strong></a> • WIP<br/>
-      <span>Personal Project | View posts that you care about from your favorite subreddit</span>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
       <a href="https://higherlowermusic.netlify.app/" target="_blank">
         <img src="https://i.ibb.co/C95g9Jb/icons8-music-120.png" alt="Higher Lower Music Logo" width="50" height="50"/>
       </a>
@@ -73,20 +59,6 @@ I’m always up for learning new things, whether it’s a new programming langua
     <td>
       <a href="https://higherlowermusic.netlify.app/" target="_blank"><strong>Higher Lower Music</strong><br/></a>
       <span>Personal Project | Higher lower game based on music artists</span>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://fetch-dog-shelter-database.netlify.app/" target="_blank">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-73F1Ik8k9ihg8bsLQ6moWqnXUuarANyuEA&s" alt="Fetch Logo" width="50" height="50"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://fetch-dog-shelter-database.netlify.app/" target="_blank"><strong>Fetch Dog Shelter</strong></a><br/>
-      <span>Project | A dog-lover's database for shelter dogs</span>
     </td>
   </tr>
 </table>
