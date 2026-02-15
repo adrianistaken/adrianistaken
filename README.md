@@ -23,12 +23,12 @@
 <table>
   <tr>
     <td>
-      <a href="https://www.resound.fm/" target="_blank">
+      <a href="https://dota2pseudorandom.com/" target="_blank">
         <img src="https://i.ibb.co/VYh6Q8kG/prd-logo.png" alt="Dota 2 Pseudo Random Logo" width="50" height="50"/>
       </a>
     </td>
     <td>
-      <a href="https://www.resound.fm/" target="_blank"><strong>Dota 2 Pseudo Random</strong></a><br/>
+      <a href="https://dota2pseudorandom.com/" target="_blank"><strong>Dota 2 Pseudo Random</strong></a><br/>
       <span>Personal Project | Tool to understand how Pseudo-Random Distribution works in Dota 2</span>
     </td>
   </tr>
@@ -42,7 +42,7 @@
       </a>
     </td>
     <td>
-      <a href="https://www.resound.fm/" target="_blank"><strong>Dota 2 Map Drawing</strong></a><br/>
+      <a href="https://dota2mapdrawing.com/" target="_blank"><strong>Dota 2 Map Drawing</strong></a><br/>
       <span>Personal Project | Dota 2 minimap drawing and strategizing in the browser</span>
     </td>
   </tr>
@@ -56,7 +56,7 @@
       </a>
     </td>
     <td>
-      <a href="https://www.resound.fm/" target="_blank"><strong>Wilber Group</strong></a><br/>
+      <a href="https://www.wilbergroup.com/" target="_blank"><strong>Wilber Group</strong></a><br/>
       <span>Software Developer | Commercial and personal insurance claims provider</span>
     </td>
   </tr>
