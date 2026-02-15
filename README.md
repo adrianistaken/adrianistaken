@@ -2,17 +2,21 @@
 
 ## I build things, I create YouTube videos, I love learning
 
-<div style="display: flex; gap: 20px;">
-<div>
-<img src="https://i.postimg.cc/jqJ2QhZP/123-1-5.jpg" alt="Adrian's Photo" width="160" height="220px" style="border-radius: 10px;"/>
-</div>
-
-<div style="text-align: left; display: flex; flex-direction: column; gap: 20px; justify-content: center;">
-<span>I work as a <strong>Software Developer</strong> during the day.</span>
-<span>At night, I create <strong>educational YouTube videos</strong>, build side projects, and spend time with my family.</span>
-<span>Occasionally I treat myself to some <strong>Dota 2, Slay the Spire, or PUBG</strong> too (current rotation of games).</span>
-</div>
-</div>
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <img src="https://i.postimg.cc/jqJ2QhZP/123-1-5.jpg"
+           alt="Adrian's Photo"
+           width="140"
+           style="border-radius: 10px;" />
+    </td>
+    <td style="vertical-align: top;">
+      <p>I work as a <strong>Software Developer</strong> during the day.</p>
+      <p>At night, I create <strong>educational YouTube videos</strong>, build side projects, and spend time with my family.</p>
+      <p>Occasionally I treat myself to some <strong>Dota 2, Slay the Spire, or PUBG</strong> too (current rotation of games).</p>
+    </td>
+  </tr>
+</table>
 
 
 ### What I've Worked On
