@@ -93,12 +93,12 @@
 <table>
   <tr>
     <td>
-      <a href="https://higherlowermusic.netlify.app/" target="_blank">
+      <a href="https://higherlowermusic.com/" target="_blank">
         <img src="https://i.ibb.co/C95g9Jb/icons8-music-120.png" alt="Higher Lower Music Logo" width="50" height="50"/>
       </a>
     </td>
     <td>
-      <a href="https://higherlowermusic.netlify.app/" target="_blank"><strong>Higher Lower Music</strong><br/></a>
+      <a href="https://higherlowermusic.com/" target="_blank"><strong>Higher Lower Music</strong><br/></a>
       <span>Personal Project | Higher lower game based on music artists</span>
     </td>
   </tr>
