@@ -13,7 +13,7 @@
     <td style="vertical-align: top;">
       <p>I work as a <strong>Software Developer</strong> during the day.</p>
       <p>At night, I create <strong>educational YouTube videos</strong>, build side projects, and spend time with my family.</p>
-      <p>Occasionally I treat myself to some <strong>Dota 2, Slay the Spire, or PUBG</strong> too (current rotation of games).</p>
+      <p>Occasionally I treat myself to some <strong>Dota 2, Slay the Spire 2, or PUBG</strong> (current rotation of games).</p>
     </td>
   </tr>
 </table>
